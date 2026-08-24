@@ -1,0 +1,6 @@
+Rank,Model,MAE,RMSE,R²,Training Time (s)
+1,Random Forest,1.326,1.771,0.592,27.112
+2,Gradient Boosting,1.328,1.785,0.586,6.548
+3,Linear Regression,1.344,1.806,0.576,0.033
+4,XGBoost,1.358,1.835,0.562,0.4
+5,Decision Tree,1.728,2.502,0.186,0.483
