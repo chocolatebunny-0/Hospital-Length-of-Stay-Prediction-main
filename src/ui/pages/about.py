@@ -14,7 +14,7 @@ def render() -> None:
         section_title("Project Overview")
         st.markdown(
             """
-            This application predicts hospital length of stay using a Various
+            This application predicts hospital length of stay using Various
             models trained on a healthcare risk-factors dataset combining
             demographic, clinical and lifestyle information for 30,000 patients.
             It was developed as part of an MSc dissertation project exploring how
