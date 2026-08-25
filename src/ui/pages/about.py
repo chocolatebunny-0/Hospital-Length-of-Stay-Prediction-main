@@ -14,8 +14,8 @@ def render() -> None:
         section_title("Project Overview")
         st.markdown(
             """
-            This application predicts hospital length of stay using a Random
-            Forest model trained on a healthcare risk-factors dataset combining
+            This application predicts hospital length of stay using a Various
+            models trained on a healthcare risk-factors dataset combining
             demographic, clinical and lifestyle information for 30,000 patients.
             It was developed as part of an MSc dissertation project exploring how
             predictive modelling and explainable AI can support clinical
@@ -125,8 +125,8 @@ def render() -> None:
         section_title("Author")
         st.markdown(
             """
-            **Author:** _Add your name here_
-            **Programme:** _Add MSc programme / institution here_
-            **Contact:** _Add contact email here_
+            **Author:** Opeyemi Seriki
+            **Programme:** Data Science / University of Sunderland
+            **Contact:** opeyemiseriki0@gmail.com
             """
         )
